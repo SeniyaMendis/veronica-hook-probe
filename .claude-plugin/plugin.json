@@ -1,0 +1,6 @@
+{
+  "name": "veronica-hook-probe",
+  "version": "1.0.0",
+  "description": "A test plugin that checks how VERONICA runs plugin checks.",
+  "author": { "name": "SeniyaMendis" }
+}
